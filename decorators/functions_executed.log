@@ -1,0 +1,12 @@
+INFO:root:[display_info1] Ran with args: ('Tom', 22), and kwargs: {}
+INFO:root:[display_info1] Ran with args: ('Tom', 22), and kwargs: {}
+INFO:root:[display_info1] Ran with args: ('Tom', 22), and kwargs: {}
+INFO:root:[wrapper] Ran with args: ('Tom', 22), and kwargs: {}
+INFO:root:[display_info1] Ran with args: ('Tom', 22), and kwargs: {}
+INFO:root:[display_info3] Ran with args: ('Tom', 22), and kwargs: {}
+INFO:root:[wrapper] Ran with args: ('Tom', 22), and kwargs: {}
+INFO:root:[display_info3] Ran with args: ('Tom', 22), and kwargs: {}
+INFO:root:[display_info3] Ran with args: ('Tom', 22), and kwargs: {}
+INFO:root:[wrapper1] Ran with args: ('Tom', 22), and kwargs: {}
+INFO:root:[display_info5] Ran with args: ('Tom', 22), and kwargs: {}
+INFO:root:[display_info5] Ran with args: ('Tom', 22), and kwargs: {}
